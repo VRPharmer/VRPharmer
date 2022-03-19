@@ -1,0 +1,13 @@
+Mode[OPT/SCORE]                         SCORE
+GA_Match[Y/N]                           N
+Generate_Conformer[Y/N]                 N
+Reject_Fitness_Cutoff                   -1.0
+Include_Exclude_Volume[Y/N]             Y
+Output_Best_Fitted_Conf_Only[Y/N]       N
+Num_Top_Hits_Written                    1850
+GAMatch_Min_Max_Hydro                   0       10
+GAMatch_Min_Max_HB_Donor                0       10
+GAMatch_Min_Max_HB_Acceptor             0       10
+GAMatch_Min_Max_Pos_Charge              0       5
+GAMatch_Min_Max_Neg_Charge              0       5
+GAMatch_Min_Max_AR                      0       6

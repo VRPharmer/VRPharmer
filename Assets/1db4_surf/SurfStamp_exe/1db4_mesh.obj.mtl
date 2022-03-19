@@ -1,0 +1,24 @@
+newmtl material1
+Ka 1.0 1.0 1.0
+Kd 0.8 0.8 0.8
+Ks 0.0 0.0 0.0
+Ke 0.2 0.2 0.2
+Ns 0.0
+Ni 1.0
+d 1.0
+illum 2
+map_Kd 1db4_mesh.obj.png
+map_Ks 1db4_mesh.obj.png
+map_Ka 1db4_mesh.obj.png
+newmtl material_2b
+Ka 1.0 1.0 1.0
+Kd 0.8 0.8 0.8
+Ks 0.0 0.0 0.0
+Ke 0.2 0.2 0.2
+Ns 0.0
+Ni 1.0
+d 0.75
+illum 2
+map_Kd 1db4_mesh.obj_ligand.png
+map_Ks 1db4_mesh.obj_ligand.png
+map_Ka 1db4_mesh.obj_ligand.png

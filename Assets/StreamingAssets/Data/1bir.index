@@ -1,0 +1,22 @@
+### INPUT PARAMETER ###
+POCKET_FILE                  D:\MyPDB\4cik\4cik_cavity_1.pdb
+GRID_FILE                  D:\MyPDB\4cik\4cik_vacant_1.pdb
+SURFACE_FILE                 D:\MyPDB\4cik\4cik_surface_1.pdb
+LIGAND_FILE                  E:/0-study\pocket-cavity/TRY1/ibir/ligand.mol2
+
+GRID_CLOSE_LIGAND            NO
+
+SPITBALLPOINT_FILE           ./data438.pts
+CUTOFF_DIST                  5.0
+
+### OUTPUT PARAMETER ###
+KEY_SITE_FILE                  D:\MyPDB\4cik\4cik-key-site-1.pdb
+EXCLUDED_VOLUME                  D:\MyPDB\4cik\4cik-excluded-volume.pdb
+EXCLUDEDVOL_PHARM                  D:\MyPDB\4cik\4cik-excludedvol-pharm.pdb
+PHARMACOPHORE_PDB_FILE                  D:\MyPDB\4cik\4cik-pharmacophore-1.pdb
+PHARMACOPHORE_HYPOEDIT_FILE                  D:\MyPDB\4cik\4cik-pharmacophore-1.hypoedit
+#PHARMACOPHORE_TXT_FILE       example/1m49-pharmacophore-free.txt
+#PHARMACOPHORE_CHM_FILE       example/1m49-pharmacophore-free.chm
+
+#ANALYSISDISTANCE_TXT_FILE    example/1m49-analysis_dist.txt
+

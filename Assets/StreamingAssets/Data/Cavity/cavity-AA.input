@@ -1,0 +1,5 @@
+INCLUDE                    D:\MyResult\Cavity\default.input
+DETECT_MODE			1
+RECEPTOR_FILE	  D:\MyPDB\4cik\4cik.pdb
+LIGAND_FILE	  D:\MyPDB\4cik\4cik.mol2
+INCLUDE                    D:\MyResult\Cavity\standard.input
