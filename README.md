@@ -6,7 +6,7 @@ With SteamVR preinstalled, the program can be streamed to users’ VR head-mount
 ## Compatibility 
 We have tested its compatibility with the HTC Vive and Pico Neo3 VR toolsets on Windows 10. All VR devices that support streaming through SteamVR should be compatible with VRharmer. If you encounter compatibility problems, don't hesitate to raise an issue.  
 The trigger layout of your VR controller may differ slightly from the video tutorial. Generally, the trigger map can be adjusted via your own VR toolset.
-##Get Started
+## Get Started
 We provide 2 video tutorials to help you get familiar with VRPharmer.  
 1. The demo video with audio commentary that covers the entire process of virtual screening and binding pose exploration:  
 Link: https://pan.baidu.com/s/1DIBL4Vn6mfqim4j0EcXdWQ?pwd=yw7c  
