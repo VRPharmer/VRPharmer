@@ -9,6 +9,7 @@
 # Editor config folder
 .idea/
 .vscode/*
+.vsconfig
 
 # Unity3d
 [Ll]ibrary/
