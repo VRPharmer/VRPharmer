@@ -3,7 +3,7 @@
 **Environment**: The VRPharmer program requires a Windows OS with at least version 7.  
 **Launch**: The current released version is VRPharmer_V1. Unzip the VRPharmer_V1.zip and lanch the VRPharmer_V1.exe to use it.   
 With SteamVR preinstalled, the program can be streamed to users’ VR head-mounted displays and controllers, otherwise it will be launched in the simulator mode. 
-##Compatibility 
+## Compatibility 
 We have tested its compatibility with the HTC Vive and Pico Neo3 VR toolsets on Windows 10. All VR devices that support streaming through SteamVR should be compatible with VRharmer. If you encounter compatibility problems, don't hesitate to raise an issue.  
 The trigger layout of your VR controller may differ slightly from the video tutorial. Generally, the trigger map can be adjusted via your own VR toolset.
 ##Get Started
