@@ -1,5 +1,5 @@
-#VRPharmer
-##Installation 
+# VRPharmer
+## Installation 
 **Environment**: The VRPharmer program requires a Windows OS with at least version 7.  
 **Launch**: The current released version is VRPharmer_V1. Unzip the VRPharmer_V1.zip and lanch the VRPharmer_V1.exe to use it.   
 With SteamVR preinstalled, the program can be streamed to users’ VR head-mounted displays and controllers, otherwise it will be launched in the simulator mode. 
